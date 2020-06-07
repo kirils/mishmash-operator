@@ -1,10 +1,7 @@
 # mishmash-operator
-Mishmash Operator - http://mishmash.io
-[Mishmash Website][website]
+Mishmash Operator: http://mishmash.io
 
-[Image repository][https://quay.io/repository/kirils/mishmash-operator]
+Image repository: https://quay.io/repository/kirils/mishmash-operator
 
 ## Instalation
 
-
-[website]: https://mishmash.io
