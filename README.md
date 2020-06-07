@@ -69,7 +69,8 @@ example-mishmash-6fd7c98d8-7dqdr     1/1       Running   0          1m
 example-mishmash-6fd7c98d8-g5k7v     1/1       Running   0          1m
 example-mishmash-6fd7c98d8-m7vn7     1/1       Running   0          1m
 mishmash-operator-7cc7cfdf86-vvjqk   1/1       Running   0          2m
-
+```
+```bash
 $ kubectl get mishmash/example-mishmash -o yaml
 apiVersion: mishmash.io/v1alpha1
 kind: Mishmash
