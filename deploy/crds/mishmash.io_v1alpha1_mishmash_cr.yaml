@@ -1,0 +1,7 @@
+apiVersion: mishmash.io/v1alpha1
+kind: Mishmash
+metadata:
+  name: example-mishmash
+spec:
+  # Add fields here
+  size: 3
